@@ -1,0 +1,15 @@
+{
+  "name": "textweave",
+  "version": "1.0.0",
+  "description": "Web app to generate text patterns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server --no-browser"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "Alan",
+  "license": "MIT"
+}
