@@ -6,6 +6,28 @@
 
 A web app that takes an input text and generates lines that resemble a pattern like a pyramid, diamond, etc. This tiny project was written in HTML, CSS, and vanilla JavaScript.
 
+**An example of a pattern generated using TextWeave.**
+
+```
+T
+Te
+Tex
+Text
+TextW
+TextWe
+TextWea
+TextWeav
+TextWeave
+TextWeav
+TextWea
+TextWe
+TextW
+Text
+Tex
+Te
+T
+```
+
 Fonts from [Google Fonts](https://fonts.google.com/).
 
 ![Screenshot](screenshot.png)
